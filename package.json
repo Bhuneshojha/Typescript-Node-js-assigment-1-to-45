@@ -1,0 +1,12 @@
+{
+  "name": "Typescript & Node js 45 assigment",
+  "version": "1.0.0",
+  "description": " In this Typescript file we created all 45 assigment of governer sindh IT intiaive",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bhunesh kumar ojha (00481853)",
+  "license": "ISC"
+}
